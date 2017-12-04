@@ -1,0 +1,20 @@
+{
+  "name": "elagin-front",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "chart.js": "^2.7.1",
+    "d3": "^4.11.0",
+    "react": "^16.0.0",
+    "react-addons-css-transition-group": "^15.6.2",
+    "react-chartjs-2": "^2.6.4",
+    "react-dom": "^16.0.0",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
